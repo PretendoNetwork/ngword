@@ -20,6 +20,7 @@
 ^baisée$
 ^baltringue$
 ^batard$
+^blaireau$
 ^bico$
 ^bicot$
 ^biroute$
@@ -220,3 +221,11 @@
 ^badwordp$
 ^bbwpfr$
 ^chatte$
+^nique-ta-mère$
+^ntm$
+^pute$
+^putes$
+^salope$
+^salopes$
+^salaud$
+^salauds$
